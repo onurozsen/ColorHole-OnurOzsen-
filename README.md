@@ -1,5 +1,5 @@
 # ColorHole-OnurOzsen-
-I developed a demo game called ColorHole.  In this game, you have to pull some objects to the black hole and you don't have to pull some objects.  There is a magnetic field around the black hole.  If you pull unwanted objects, you will lose the game.
+I developed a demo game called ColorHole.  In this game, you have to pull some objects to the black hole and you don't have to pull some objects.  There is a magnetic field around the black hole.  If you pull unwanted objects, you will lose the game!
 
 ![Screenshot_20201205-030151_ColorHoleGJG](https://user-images.githubusercontent.com/32279964/101226865-83dd8e80-369e-11eb-96e1-31cf393098ef.jpg)
 ![Screenshot_20201205-030319_ColorHoleGJG](https://user-images.githubusercontent.com/32279964/101226870-86d87f00-369e-11eb-80db-5468a4013832.jpg)
